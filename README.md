@@ -1,0 +1,1 @@
+# Paüsiber'in git/github eğitimine katıldım.
